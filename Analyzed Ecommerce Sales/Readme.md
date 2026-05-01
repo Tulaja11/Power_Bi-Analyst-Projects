@@ -4,7 +4,6 @@ An interactive sales analytics dashboard built in Power BI to visualize ecommerc
 
 ## Dashboard Highlights
 <img width="1138" height="637" alt="image" src="https://github.com/user-attachments/assets/8c173288-c780-4770-8e9f-1e4a76fb95f6" />
----
 
 - KPIs: Total Amount (438K), Quantity (5615), Profit (37K), and Average Order Value
 - Charts: Sales by State, Category, Sub-Category, Customer, Payment Mode, and monthly Profit trends

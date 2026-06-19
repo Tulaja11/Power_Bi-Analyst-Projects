@@ -54,4 +54,5 @@ Python (Cleaning) → SQL (Analysis) → Power BI (Dashboard)
 ---
 
 ## 📈 Dashboard Preview
+<img width="632" height="346" alt="image" src="https://github.com/user-attachments/assets/07ec0d9e-debc-483e-ae67-1cfd4e4b4ccd" />
 

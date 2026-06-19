@@ -31,6 +31,9 @@
 - Category-wise fraud trends
 - Weekday vs Weekend fraud patterns
 
+## Dashboard Preview
+<img width="1150" height="640" alt="image" src="https://github.com/user-attachments/assets/54d5fdaf-7d62-4ecf-aa2e-65df6eda6f7e" />
+
 ## Business Insights
 - Certain locations show higher fraud frequency
 - Fraud rates fluctuate monthly indicating seasonal patterns
@@ -43,5 +46,4 @@ This project helps businesses:
 - Reduce financial risk
 - Improve transaction security
 - Make data-driven fraud prevention strategies
-
 

@@ -39,3 +39,6 @@ An interactive Power BI dashboard built to analyze customer purchasing patterns,
 - Payment Method Analysis
 - Seasonal Shopping Trends
 - Interactive Slicers and Filters
+
+## Dashboard View
+<img width="644" height="353" alt="image" src="https://github.com/user-attachments/assets/750a2556-80f8-406c-af7f-e42149dc33a6" />

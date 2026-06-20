@@ -46,3 +46,6 @@ An interactive Power BI dashboard built to analyze insurance claim patterns, pre
 - Enhanced policy planning
 - Identification of high-risk customer segments
 - Data-driven insurance decisions
+
+## Dashboard Preview
+<img width="568" height="322" alt="image" src="https://github.com/user-attachments/assets/1ab3b3b4-3325-4203-8da1-25c9fe121756" />
